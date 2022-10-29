@@ -28,7 +28,7 @@ body {
 	font-size: 14px;
 	line-height: 17px;
 	color: #000000;
-	margin-bottom: 20px;
+	margin-bottom: 10px;
 }
 .about-name {
 	font-style: normal;
@@ -169,11 +169,11 @@ body {
 .sidebar {
 	background-color: #1e2939;
 	padding-top: 40px;
-	width: 370px;
+	width: 340px;
 }
 
 .photo {
-	width: 370px;
+	width: 340px;
 	margin-bottom: 50px;
 }
 .sidebar-title {
@@ -249,6 +249,6 @@ body {
 }
 
 .line {
-    font-weight: 800;
-    color: #fb6d3a;
+	font-weight: 800;
+	color: #fb6d3a;
 }
